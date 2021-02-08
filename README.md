@@ -14,3 +14,6 @@ If the program crashed take a screenshot of macro's console and send it to me. I
 
 
 ### Some Screenshots of program
+![Screenshot1](https://github.com/mberkdemir/macro-software/blob/master/Screenshots/Screenshot1.png)  <br/>
+![Screenshot2](https://github.com/mberkdemir/macro-software/blob/master/Screenshots/Screenshot2.png)  <br/>  
+![Screenshot3](https://github.com/mberkdemir/macro-software/blob/master/Screenshots/Screenshot3.png)
